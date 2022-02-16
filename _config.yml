@@ -1,4 +1,4 @@
-title: "Nerd as a Service Posts"
+title: "Nerd as a Service Blog"
 author: "Nidio Dolfini"
 description: "Postando algumas atividades de Infra" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
@@ -27,7 +27,7 @@ kramdown:
     disable: true
     
 plugins:
-  - jekyll-feed
+  #- jekyll-feed
   - jekyll-sitemap
 
 titles_from_headings:
