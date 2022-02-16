@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "Working with secure FTP in PowerShell"
-description: "Recently learned a new way to work with secure FTP in PowerShell"
-date: 2021-11-01T07:00:00-07:00
+title: "Primeiro post do Blog"
+description: ""
+date: 2022-02-15T07:00:00-07:00
 tags: PowerShell
 ---
 
- ```powershel
- For
- teste de código.
- ```
+
+Blog criado para postar exericicios e atividades relacionados a Infra e Dev.
+# ```powershel
+# For
+# teste de código.
+# ```
