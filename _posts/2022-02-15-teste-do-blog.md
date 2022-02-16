@@ -8,7 +8,3 @@ tags: PowerShell
 
 
 Blog criado para postar exericicios e atividades relacionados a Infra e Dev.
-# ```powershel
-# For
-# teste de código.
-# ```
