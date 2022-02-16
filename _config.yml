@@ -18,7 +18,7 @@ linkedin_username: "nidiodolfini"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "kasper"
+theme: "minima"
 
 #rss: rss
 
